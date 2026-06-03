@@ -31,3 +31,6 @@ Built a CRM automation scenario using Etsy, Make.com, and google sheets that:
 - Identified repeat customers
 - Built a clean CRM database
 - Calculated customer lifetime value automatically
+
+# PRIVACY NOTICE 
+ALl customers information displayed in screenshots, demos, and portfolio materials has been anonymized. Real customer names, emails, order IDs, and other informaiton are not publicly shared. 
